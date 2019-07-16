@@ -1,3 +1,4 @@
+#ini contohnya
 import marshal
 #github.com/GitWir
 #Jangan Recode
